@@ -1,4 +1,4 @@
-# От регрессии к нейросети
+# Блин блинский, это потеря потерь
 
 - [Скачать себе презентацию](https://github.com/FUlyankin/deep_learning_tf/raw/main/week01/ml_slides_01.pdf)
 
